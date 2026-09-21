@@ -1,60 +1,54 @@
-# Murilo Carlucci
+## Building in public
 
-<div align="left">
-  <p><strong>Graduando em Cibersegurança | FIAP</strong></p>
-  <p>Foco de Carreira: <strong>Infraestrutura de Redes, Segurança Defensiva & Administração de Sistemas</strong></p>
+<div align="center">
+
+# muricarlucci
+
+> Technical founder
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=muricarlucci&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292687733%3Fv%3D4" alt="muricarlucci hero visual" />
+</p>
+
 </div>
 
----
+## The point of view
 
-### 🎯 Sobre Mim e Foco de Atuação
+> Building useful things and learning in public.
 
-Graduando no 2º semestre de Cibersegurança na FIAP (Campus Paulista), com atuação prática e acadêmica direcionada à **Infraestrutura de Redes** e **Operações de Segurança Defensiva**. 
+- 👥 **0** followers · **0** following
 
-Minha área primária de dedicação envolve a modelagem, roteamento e segurança de ambientes de rede corporativos, integrando protocolos de roteamento híbrido (OSPF/eBGP), inspeção profunda de pacotes e controles de camada de enlace, somados à administração segura de ambientes Linux e conformidade com frameworks de mercado (NIST CSF, CIS Controls, ISO/IEC 27001).
+*Small, useful work over vague claims.*
 
----
+## What I’m shipping
 
-### 🛠️ Competências Técnicas & Tecnologias
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=muricarlucci&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292687733%3Fv%3D4" alt="muricarlucci highlights visual" />
+</p>
 
-#### 🌐 Infraestrutura & Protocolos de Rede
-- **Roteamento & Camada L3:** OSPFv2, eBGP, redistribuição de rotas, cálculo de sub-redes IPv4 e dimensionamento de enlaces WAN (/30).
-- **Comutação & Camada L2:** Segmentação de tráfego via VLANs, troncos IEEE 802.1Q, DHCP e mitigação de vulnerabilidades locais.
-- **Análise & Diagnóstico:** Análise de pacotes e tráfego com Wireshark, troubleshooting de conectividade (ICMP/traceroute) e validação de isolamento de rede.
+<p><b>muricarlucci</b> is shipping 4 public projects with 0 stars of proof.</p>
 
-#### 🛡️ Segurança Defensiva & Monitoramento
-- **Segurança L2:** Mitigação de ataques de rede local (ARP Spoofing/Poisoning) via Dynamic ARP Inspection (DAI).
-- **Detecção de Intrusão (NIDS):** Regras de detecção de anomalias e inspeção de tráfego com Suricata e Zeek.
-- **Governança & Conformidade:** Mapeamento de controles de segurança orientados a CIS Controls, NIST CSF e ISO/IEC 27001; conceitos de ASPM e sanitização de dados (DLP).
+## Products and proof
 
-#### 🐧 Sistemas Operacionais & Servidores
-- **Linux Hardening:** Administração via CLI, controle de acesso baseado em privilégios mínimos (`chmod`, `chown`), serviços de rede essenciais (Apache, DNS autoritativo BIND9 e SSH seguro).
-- **Ambientes de Virtualização:** Planejamento e execução de laboratórios em Hyper-V e simuladores de rede (Cisco Packet Tracer).
+<table>
+<tr><td width="32%"><b><a href="https://github.com/muricarlucci/muricarlucci">muricarlucci</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/muricarlucci/cp2-coding-for-security">cp2-coding-for-security</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/muricarlucci/Apex-Security-ASPM">Apex-Security-ASPM</a></b></td><td>Plataforma ASPM (Application Security Posture Management) Projeto acadêmico — FIAP Cibersegurança 2026<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/muricarlucci/network-segmentation-packet-tracer">network-segmentation-packet-tracer</a></b></td><td>Laboratório de rede corporativa multi-sítio desenvolvido no Cisco Packet Tracer, apresentando segmentação por VLAN, comutação de Camada 3, OSPF, eBGP, resiliência de WAN, DHCP e SSH hardening.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
 
----
+## Momentum
 
-### 🧪 Projetos Práticos e Laboratórios
+<table>
+<tr><td align="center"><b>4</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>73</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-| Projeto / Laboratório | Descrição Técnica | Foco Principal |
-| :--- | :--- | :--- |
-| **[Lab de Redes Corporativas](https://github.com/muricarlucci)** | Topologia segmentada com isolamento de VLANs, enlaces WAN /30, DHCP e roteamento híbrido OSPFv2/eBGP com redistribuição. | `Cisco Packet Tracer` `OSPF` `eBGP` `L2/L3` |
-| **[Segurança de Redes: Mitigação L2 & IDS](https://github.com/muricarlucci)** | Simulação prática de ARP Spoofing, implementação de Dynamic ARP Inspection (DAI) em switches e alertas com Suricata/Zeek. | `DAI` `Suricata` `Zeek` `Wireshark` |
-| **[Hardening e Infraestrutura Linux](https://github.com/muricarlucci)** | Provisionamento seguro de servidor Linux via CLI: DNS BIND9, servidor Apache, SSH protegido, particionamento de disco e filtragem de logs. | `Linux CLI` `BIND9` `Apache` `Hardening` |
-| **[Apex Security - ASPM Architecture](https://github.com/muricarlucci)** | Projeto de governança para centralização de alertas de segurança em esteiras CI/CD, redução de falsos-positivos e DLP contra segredos expostos. | `ASPM` `CI/CD` `DLP` `Governança` |
+## Start a conversation
 
-*(Nota: Atualize os links acima diretamente para os repositórios específicos conforme publicá-los).*
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=muricarlucci&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F292687733%3Fv%3D4" alt="muricarlucci social visual" />
+</p>
 
----
+<a href="https://github.com/muricarlucci">GitHub</a>
 
-### 📜 Certificações & Formação Complementar
-
-- **Networking Basics** — Cisco Networking Academy / Skills for All (2026)
-- **Introduction to the Threat Landscape** — Fortinet Training Institute (2026)
-- **Microsoft Azure Fundamentals (AZ-900)** — Microsoft Learn (2026)
-
----
-
-### 📬 Conexões e Contato
-
-- **LinkedIn:** [linkedin.com/in/muricarlucci](https://linkedin.com/in/muricarlucci)
-- **E-mail:** [muricarlucci@gmail.com](mailto:muricarlucci@gmail.com)
+<p align="center"><sub>muricarlucci · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
