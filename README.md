@@ -14,9 +14,9 @@
 
 ### 🎯 Sobre Mim e Foco de Atuação
 
-Graduando no 2º semestre de Cibersegurança na FIAP (Campus Paulista), com dedicação contínua à **Infraestrutura de Redes** e **Segurança Operacional / Defensiva**. 
+Graduando no 2º semestre de **Cibersegurança na FIAP (Campus Paulista)**, com foco em **Security Operations Center (SOC)**, **Segurança Defensiva (Blue Team)** e **Infraestrutura de Redes**. Tenho especial interesse na investigação de eventos, análise de tráfego, monitoramento de ameaças e resposta a incidentes.
 
-Minha atuação é direcionada ao desenho, implementação e troubleshooting de topologias de rede corporativas: roteamento dinâmico híbrido (OSPF/eBGP), segmentação L2 com VLANs, inspeção de pacotes e controles em camada de enlace, aliados ao hardening de servidores Linux e práticas de governança estruturadas (NIST CSF, CIS Controls, ISO/IEC 27001).
+Direciono meus estudos e projetos à conexão entre redes, sistemas operacionais e detecção de ameaças: laboratórios com **Wireshark, Suricata e Zeek**, infraestrutura e hardening **Linux**, além de arquitetura de segurança em **Windows Server 2025, Active Directory** e **SIEM Wazuh**. Também participei do desenvolvimento da **Apex Security**, plataforma de ASPM para centralização e priorização de alertas e vulnerabilidades. Busco minha primeira oportunidade profissional em Cibersegurança, com dedicação ao aprendizado contínuo e ao crescimento na área de SOC.
 
 <div align="center">
   <img src="./assets/gold-divider.svg" alt="Divisor Dourado" width="100%" />
@@ -30,13 +30,18 @@ Minha atuação é direcionada ao desenho, implementação e troubleshooting de 
   <img src="https://img.shields.io/badge/Linux_CLI-be7912?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/TCP/IP_&_VLANs-be7912?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/Suricata_&_Zeek-be7912?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="IDS" />
+  <img src="https://img.shields.io/badge/Windows_Server_2025-be7912?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows Server 2025" />
+  <img src="https://img.shields.io/badge/Active_Directory-be7912?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  <img src="https://img.shields.io/badge/Wazuh_SIEM-be7912?style=for-the-badge&logoColor=white" alt="Wazuh SIEM" />
+  <img src="https://img.shields.io/badge/ASPM_&_CI/CD-be7912?style=for-the-badge&logo=github&logoColor=white" alt="ASPM e CI/CD" />
 </div>
 
 <br/>
 
-- **Infraestrutura & Redes:** Roteamento L3 (OSPFv2, eBGP, redistribuição de rotas), enlaces WAN /30, dimensionamento de sub-redes IPv4, comutação L2 (VLANs, troncos 802.1Q, DHCP) e análise de tráfego com Wireshark.
-- **Segurança Defensiva:** Mitigação de ataques em camada de enlace (ARP Spoofing via Dynamic ARP Inspection - DAI), detecção com Suricata/Zeek e monitoramento de logs de auditoria.
-- **Sistemas & Servidores:** Administração Linux via linha de comando, privilégios mínimos (`chmod`/`chown`), serviços de infraestrutura (Apache, DNS BIND9, SSH seguro) e virtualização com Hyper-V.
+- **Segurança Defensiva & SOC:** Fundamentos de monitoramento de eventos, análise de logs e triagem de alertas; análise de tráfego com Wireshark, detecção com Suricata/Zeek e modelagem de SOC com SIEM Wazuh, Sysmon e playbooks de resposta a incidentes.
+- **Infraestrutura & Redes:** TCP/IP, DNS, DHCP, IPv4/IPv6, VLANs e segmentação L2/L3; roteamento OSPFv2/eBGP, redistribuição de rotas, NAT, HSRP, STP e troubleshooting. No laboratório publicado, enlaces WAN /30 e validação de conectividade e isolamento de tráfego.
+- **Windows & Infraestrutura Corporativa:** Arquitetura Windows Server 2025 e Hyper-V; fundamentos de Active Directory Domain Services (AD DS), GPOs, Windows LAPS, Microsoft Defender, firewall e controles de acesso por privilégio mínimo.
+- **Linux & Segurança de Aplicações:** Administração via CLI, permissões (`chmod`/`chown`), serviços Apache, DNS BIND9, SSH e análise de logs; participação em plataforma ASPM para classificação e priorização de vulnerabilidades em esteiras CI/CD.
 
 <div align="center">
   <img src="./assets/gold-divider.svg" alt="Divisor Dourado" width="100%" />
@@ -62,7 +67,7 @@ Minha atuação é direcionada ao desenho, implementação e troubleshooting de 
     </tr>
     <tr>
       <td>
-        <b><a href="https://github.com/muricarlucci/Apex-Security-ASPM">Apex-Security-ASPM</a></b>
+        <b><a href="https://github.com/muricarlucci/Apex-Security">Apex-Security</a></b>
       </td>
       <td>Plataforma de Application Security Posture Management para esteiras CI/CD. Foco em triagem de alertas, regras de DLP contra vazamento de segredos em repositórios e conformidade de software.</td>
       <td><code>ASPM</code> <code>CI/CD</code> <code>DLP</code> <code>Governança</code></td>
@@ -73,6 +78,27 @@ Minha atuação é direcionada ao desenho, implementação e troubleshooting de 
       </td>
       <td>Desenvolvimento de soluções e scripts em Python direcionados a algoritmos defensivos, manipulação de dados e automação de rotinas de segurança da informação.</td>
       <td><code>Python</code> <code>Segurança</code> <code>Automação</code></td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/muricarlucci/Windows-Server-2025">Windows-Server-2025</a></b>
+      </td>
+      <td>Projeto acadêmico em desenvolvimento: arquitetura de segurança Windows Server 2025 com AD DS, DNS, DHCP, Hyper-V, GPOs, Windows LAPS e modelagem de monitoramento SOC com SIEM Wazuh, Sysmon e playbooks de resposta.</td>
+      <td><code>Windows Server</code> <code>AD DS</code> <code>SIEM</code> <code>Hardening</code></td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/muricarlucci/Laboratorio-Suricata-e-Zeek">Laboratorio-Suricata-e-Zeek</a></b>
+      </td>
+      <td>Laboratório em desenvolvimento de detecção de tráfego suspeito e ARP Spoofing, com análise de eventos de rede, regras no Suricata/Zeek e mitigação em switches por Dynamic ARP Inspection (DAI).</td>
+      <td><code>Suricata</code> <code>Zeek</code> <code>Wireshark</code> <code>DAI</code></td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/muricarlucci/Infraestrutura-e-Hardening-em-Servidor-Linux">Infraestrutura-e-Hardening-em-Servidor-Linux</a></b>
+      </td>
+      <td>Laboratório em desenvolvimento de administração e hardening Linux, com configuração de Apache, DNS BIND9, SSH, DHCP, controles de acesso, análise de processos e filtragem de logs.</td>
+      <td><code>Linux</code> <code>Hardening</code> <code>DNS</code> <code>Logs</code></td>
     </tr>
   </tbody>
 </table>
@@ -85,7 +111,7 @@ Minha atuação é direcionada ao desenho, implementação e troubleshooting de 
 
 - **Networking Basics** — Cisco Networking Academy / Skills for All (2026)
 - **Introduction to the Threat Landscape** — Fortinet Training Institute (2026)
-- **Microsoft Azure Fundamentals (AZ-900)** — Microsoft Learn (2026)
+- **Trilha de estudos Azure Fundamentals (AZ-900)** — Microsoft Learn (2026)
 
 <div align="center">
   <img src="./assets/gold-divider.svg" alt="Divisor Dourado" width="100%" />
